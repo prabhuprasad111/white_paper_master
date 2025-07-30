@@ -1,0 +1,6 @@
+@white_paper_master_HostAddress = http://localhost:5065
+
+GET {{white_paper_master_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
